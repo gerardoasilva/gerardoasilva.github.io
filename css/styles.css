@@ -363,6 +363,10 @@ a:hover, a:focus, a:active {
   color: #56606a;
 }
 
-.subheading {
+.sub-color {
   color: #343a40;
+}
+
+.role-list {
+  padding-left: 20px;
 }
